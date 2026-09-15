@@ -16,7 +16,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/borja-gonz%C3%A1lez-enr%C3%ADquez-760539259"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://www.linkedin.com/in/borja-glez"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:borja@borjaglez.com"><img src="https://custom-icon-badges.demolab.com/badge/borja%40borjaglez.com-1A5276?style=for-the-badge&logo=mail&logoColor=white" alt="Email"/></a>
   <img src="https://custom-icon-badges.demolab.com/badge/Ourense%2C%20Espa%C3%B1a-16324F?style=for-the-badge&logo=location&logoColor=white" alt="Ourense, España"/>
   <img src="https://custom-icon-badges.demolab.com/badge/Abierto%20a%20remoto-1F5C46?style=for-the-badge&logo=globe&logoColor=white" alt="Abierto a trabajo remoto"/>
@@ -189,7 +189,7 @@ const borja = {
 Abierto a roles de **arquitectura de software**, **senior full-stack** e **IA** en España, con preferencia por el trabajo remoto. Si tienes un proyecto interesante o necesitas una segunda opinión sobre arquitectura, escalabilidad o testing, escríbeme.
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/borja-gonz%C3%A1lez-enr%C3%ADquez-760539259"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://www.linkedin.com/in/borja-glez"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:borja@borjaglez.com"><img src="https://custom-icon-badges.demolab.com/badge/borja%40borjaglez.com-1A5276?style=for-the-badge&logo=mail&logoColor=white" alt="Email"/></a>
 </p>
 
