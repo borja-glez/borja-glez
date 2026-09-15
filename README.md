@@ -168,6 +168,17 @@ const borja = {
         <li><a href="https://coursera.org/verify/PQBHI1NGRIWU">Generative AI Language Modeling with Transformers</a> · jul. 2026</li>
         <li><a href="https://coursera.org/verify/CT6E4I3BN42V">Generative AI Engineering and Fine-Tuning Transformers</a> · ago. 2026</li>
       </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="100%" valign="top">
+      <h3><a href="https://www.coursera.org/specializations/ibm-rag-and-agentic-ai">IBM RAG and Agentic AI</a></h3>
+      <p>Certificado profesional de IBM en Coursera · <code>▱▱▱▱▱▱▱▱▱▱</code> <b>0 de 10</b> cursos · empezando ahora</p>
+      <p>Pipelines RAG con bases de datos vectoriales, aplicaciones multimodales y agentes con LangChain, LangGraph, CrewAI y MCP.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="100%" valign="top">
       <p>
         <img src="https://img.shields.io/badge/Udemy-Curso%20completo%20de%20Rust%20%C2%B7%202024-A435F0?style=flat-square&logo=udemy&logoColor=white" alt="Curso completo del lenguaje Rust (Udemy, 2024)"/>
         <img src="https://img.shields.io/badge/Udemy-Kubernetes%20y%20Docker%20en%20AWS%20%C2%B7%202023-A435F0?style=flat-square&logo=udemy&logoColor=white" alt="Kubernetes y Docker en AWS (Udemy, 2023)"/>
