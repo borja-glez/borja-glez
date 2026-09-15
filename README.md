@@ -26,14 +26,14 @@
 
 ## 👋 Sobre mí
 
-Ingeniero de software con **más de siete años** construyendo productos web, móviles y de comunicación en tiempo real. En **Imatia Innovation** soy responsable de definir la arquitectura de los productos y proyectos de mi área y referente técnico para otros equipos.
+Ingeniero de software con **más de ocho años** construyendo productos web, móviles y de comunicación en tiempo real. En **Imatia Innovation** soy responsable de definir la arquitectura de los productos y proyectos de mi área y referente técnico para otros equipos.
 
 Diseño sistemas de **bajo coste inicial que escalan horizontalmente** cuando el producto crece, los valido con *load testing* antes de pasar a producción y los integro en flujos de CI/CD automatizados. Ahora amplío mi perfil hacia la **IA generativa**: LLMs, *fine-tuning* de transformers y agentes.
 
 ```ts
 const borja = {
   rol:          "Arquitecto de Software · Desarrollador Senior Full-Stack",
-  experiencia:  "+7 años",
+  experiencia:  "+8 años",
   ubicacion:    "Ourense, España 🇪🇸",
   backend:      ["Java", "Spring Boot", "Node.js", "CQRS", "RabbitMQ", "Kafka"],
   frontend:     ["Angular", "TypeScript", "React"],
