@@ -73,31 +73,31 @@ const borja = {
 <table align="center">
   <tr>
     <td align="right"><b>Backend</b></td>
-    <td><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=java,spring,nodejs,hibernate,rabbitmq,kafka,maven,gradle&perline=8" alt="Java, Spring, Node.js, Hibernate, RabbitMQ, Kafka, Maven, Gradle"/></a></td>
+    <td><img src="https://skillicons.dev/icons?i=java,spring,nodejs,hibernate,rabbitmq,kafka,maven,gradle&perline=8" alt="Java, Spring, Node.js, Hibernate, RabbitMQ, Kafka, Maven, Gradle"/></td>
   </tr>
   <tr>
     <td align="right"><b>Frontend</b></td>
-    <td><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=angular,ts,js,react,html,css,vite,webpack&perline=8" alt="Angular, TypeScript, JavaScript, React, HTML, CSS, Vite, Webpack"/></a></td>
+    <td><img src="https://skillicons.dev/icons?i=angular,ts,js,react,html,css,vite,webpack&perline=8" alt="Angular, TypeScript, JavaScript, React, HTML, CSS, Vite, Webpack"/></td>
   </tr>
   <tr>
     <td align="right"><b>Móvil</b></td>
-    <td><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=flutter,react,kotlin,androidstudio&perline=8" alt="Flutter, React Native, Kotlin, Android"/></a></td>
+    <td><img src="https://skillicons.dev/icons?i=flutter,react,kotlin,androidstudio&perline=8" alt="Flutter, React Native, Kotlin, Android"/></td>
   </tr>
   <tr>
     <td align="right"><b>Datos</b></td>
-    <td><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=postgres,mysql,elasticsearch&perline=8" alt="PostgreSQL, MySQL, Elasticsearch"/></a></td>
+    <td><img src="https://skillicons.dev/icons?i=postgres,mysql,elasticsearch&perline=8" alt="PostgreSQL, MySQL, Elasticsearch"/></td>
   </tr>
   <tr>
     <td align="right"><b>DevOps</b></td>
-    <td><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,githubactions,git,linux,bash&perline=8" alt="Docker, Kubernetes, AWS, GitHub Actions, Git, Linux, Bash"/></a></td>
+    <td><img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,githubactions,git,linux,bash&perline=8" alt="Docker, Kubernetes, AWS, GitHub Actions, Git, Linux, Bash"/></td>
   </tr>
   <tr>
     <td align="right"><b>IA</b></td>
-    <td><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=py,pytorch&perline=8" alt="Python, PyTorch"/></a></td>
+    <td><img src="https://skillicons.dev/icons?i=py,pytorch&perline=8" alt="Python, PyTorch"/></td>
   </tr>
   <tr>
     <td align="right"><b>Otros lenguajes</b></td>
-    <td><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=rust,cpp,cs&perline=8" alt="Rust, C/C++, C#"/></a></td>
+    <td><img src="https://skillicons.dev/icons?i=rust,cpp,cs&perline=8" alt="Rust, C/C++, C#"/></td>
   </tr>
 </table>
 
