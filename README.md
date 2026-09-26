@@ -120,6 +120,45 @@ const borja = {
 
 ## 📦 Proyectos open source
 
+<h3 align="center"><a href="https://github.com/borja-glez/spring-boot-shop-microservices-architecture-example">Mercado · arquitectura de microservicios de referencia</a></h3>
+
+<p align="center">
+  Un <em>marketplace</em> completo construido con microservicios Spring Boot: CQRS, <em>event sourcing</em>,
+  <em>outbox</em> transaccional, saga de checkout orquestada, Kafka, RabbitMQ, PostgreSQL,
+  OpenTelemetry, Kubernetes y GraalVM.<br/>
+  Es el sistema donde mis dos librerías trabajan juntas con piezas móviles reales:
+  todos los comandos, consultas y eventos pasan por <b>spring-boot-cqrs</b> y toda lectura de base de
+  datos pasa por <b>spring-boot-specification-repository</b>.
+</p>
+
+<p align="center">
+  <a href="https://github.com/borja-glez/spring-boot-shop-microservices-architecture-example/actions/workflows/ci.yml"><img src="https://img.shields.io/github/actions/workflow/status/borja-glez/spring-boot-shop-microservices-architecture-example/ci.yml?style=flat-square&label=CI" alt="CI"/></a>
+  <img src="https://img.shields.io/badge/Java-21-1A5276?style=flat-square" alt="Java 21"/>
+  <img src="https://img.shields.io/badge/Spring%20Boot-4.0%20%7C%203.5-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot 4.0 y 3.5"/>
+  <img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white" alt="Kafka"/>
+  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white" alt="RabbitMQ"/>
+  <img src="https://img.shields.io/badge/PostgreSQL%2017-336791?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL 17"/>
+  <img src="https://img.shields.io/badge/OpenTelemetry-7B61FF?style=flat-square&logo=opentelemetry&logoColor=white" alt="OpenTelemetry"/>
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
+  <img src="https://img.shields.io/badge/GraalVM%20native-F29111?style=flat-square" alt="GraalVM native"/>
+</p>
+
+<p align="center">
+  <a href="https://github.com/borja-glez/spring-boot-shop-microservices-architecture-example">
+    <img src="https://raw.githubusercontent.com/borja-glez/spring-boot-shop-microservices-architecture-example/main/docs/assets/diagrams/architecture.svg" alt="Arquitectura de Mercado: navegador, frontend, gateway, seis servicios con su propia base de datos PostgreSQL, RabbitMQ para los comandos de la saga, Kafka para los eventos de integración y una canalización de OpenTelemetry hacia Grafana" width="100%"/>
+  </a>
+</p>
+
+<p align="center">
+  <code>Base de datos por servicio</code> <code>Capas hexagonales verificadas con ArchUnit</code>
+  <code>Event sourcing con concurrencia optimista</code> <code>Outbox transaccional con SKIP LOCKED</code>
+  <code>Saga persistida con compensaciones</code> <code>Proyecciones y replay desde Kafka</code>
+  <code>Una traza por pedido</code> <code>Panel de caos</code>
+  <code>Docker Compose y Kubernetes</code> <code>Imágenes nativas</code>
+</p>
+
+<br/>
+
 <table>
   <tr>
     <td width="33%" valign="top">
@@ -128,6 +167,7 @@ const borja = {
         <a href="https://central.sonatype.com/artifact/com.borjaglez.cqrs/spring-boot-cqrs-boot3-starter"><img src="https://img.shields.io/maven-central/v/com.borjaglez.cqrs/spring-boot-cqrs-core?style=flat-square&label=Maven%20Central&color=1A5276" alt="Maven Central"/></a>
         <a href="https://github.com/borja-glez/spring-boot-cqrs/actions/workflows/ci.yml"><img src="https://img.shields.io/github/actions/workflow/status/borja-glez/spring-boot-cqrs/ci.yml?style=flat-square&label=CI" alt="CI"/></a>
         <img src="https://img.shields.io/badge/cobertura-100%25-1F5C46?style=flat-square" alt="Cobertura 100 %"/>
+        <a href="https://github.com/borja-glez/spring-boot-shop-microservices-architecture-example"><img src="https://img.shields.io/badge/en%20uso-Mercado-16324F?style=flat-square" alt="En uso en Mercado"/></a>
       </p>
       <p>Librería CQRS publicada en Maven Central: buses de comandos, eventos y consultas, <em>pipeline</em> de middlewares, adaptadores distribuidos para RabbitMQ y Kafka, soporte GraalVM native y cobertura de tests del 100 %.</p>
       <p><code>Java 21</code> <code>Spring Boot 3 y 4</code> <code>RabbitMQ</code> <code>Kafka</code> <code>GraalVM</code></p>
@@ -138,6 +178,7 @@ const borja = {
         <a href="https://central.sonatype.com/artifact/com.borjaglez.specrepository/specification-repository-core"><img src="https://img.shields.io/maven-central/v/com.borjaglez.specrepository/specification-repository-core?style=flat-square&label=Maven%20Central&color=1A5276" alt="Maven Central"/></a>
         <a href="https://github.com/borja-glez/spring-boot-specification-repository/actions/workflows/ci.yml"><img src="https://img.shields.io/github/actions/workflow/status/borja-glez/spring-boot-specification-repository/ci.yml?style=flat-square&label=CI" alt="CI"/></a>
         <img src="https://img.shields.io/badge/cobertura-100%25-1F5C46?style=flat-square" alt="Cobertura 100 %"/>
+        <a href="https://github.com/borja-glez/spring-boot-shop-microservices-architecture-example"><img src="https://img.shields.io/badge/en%20uso-Mercado-16324F?style=flat-square" alt="En uso en Mercado"/></a>
       </p>
       <p>Librería de consultas para Spring Data JPA con DSL fluido, subconsultas correlacionadas, proyecciones agregadas y <em>whitelisting</em> de campos para exponer consultas en APIs de forma segura.</p>
       <p><code>Java 21</code> <code>Spring Data JPA</code> <code>Spring Boot 3 y 4</code></p>
