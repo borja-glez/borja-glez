@@ -209,7 +209,7 @@ const borja = {
         <li><a href="https://coursera.org/verify/PQBHI1NGRIWU">Generative AI Language Modeling with Transformers</a> · jul. 2026</li>
         <li><a href="https://coursera.org/verify/CT6E4I3BN42V">Generative AI Engineering and Fine-Tuning Transformers</a> · ago. 2026</li>
         <li><a href="https://coursera.org/verify/582KPL9CNU2K">Generative AI Advanced Fine-Tuning for LLMs</a> · sep. 2026</li>
-        <li>Fundamentals of AI Agents Using RAG and LangChain · sep. 2026</li>
+        <li><a href="https://coursera.org/verify/5JQ1M71RZ24K">Fundamentals of AI Agents Using RAG and LangChain</a> · sep. 2026</li>
       </ul>
     </td>
   </tr>
