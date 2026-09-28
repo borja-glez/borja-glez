@@ -16,6 +16,7 @@
 </p>
 
 <p align="center">
+  <a href="https://borjaglez.com"><img src="https://custom-icon-badges.demolab.com/badge/Portfolio-borjaglez.com-16324F?style=for-the-badge&logo=link-external&logoColor=white" alt="Portfolio: borjaglez.com"/></a>
   <a href="https://www.linkedin.com/in/borja-glez"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:borja@borjaglez.com"><img src="https://custom-icon-badges.demolab.com/badge/borja%40borjaglez.com-1A5276?style=for-the-badge&logo=mail&logoColor=white" alt="Email"/></a>
   <img src="https://custom-icon-badges.demolab.com/badge/Ourense%2C%20Espa%C3%B1a-16324F?style=for-the-badge&logo=location&logoColor=white" alt="Ourense, España"/>
@@ -244,9 +245,10 @@ const borja = {
 
 ## 🤝 ¿Hablamos?
 
-Abierto a roles de **arquitectura de software**, **senior full-stack** e **IA** en España, con preferencia por el trabajo remoto. Si tienes un proyecto interesante o necesitas una segunda opinión sobre arquitectura, escalabilidad o testing, escríbeme.
+Abierto a roles de **arquitectura de software**, **senior full-stack** e **IA** en España, con preferencia por el trabajo remoto. Si tienes un proyecto interesante o necesitas una segunda opinión sobre arquitectura, escalabilidad o testing, escríbeme. En [borjaglez.com](https://borjaglez.com) tienes mi portfolio y el CV completo en español e inglés.
 
 <p align="center">
+  <a href="https://borjaglez.com"><img src="https://custom-icon-badges.demolab.com/badge/Portfolio-borjaglez.com-16324F?style=for-the-badge&logo=link-external&logoColor=white" alt="Portfolio: borjaglez.com"/></a>
   <a href="https://www.linkedin.com/in/borja-glez"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:borja@borjaglez.com"><img src="https://custom-icon-badges.demolab.com/badge/borja%40borjaglez.com-1A5276?style=for-the-badge&logo=mail&logoColor=white" alt="Email"/></a>
 </p>
