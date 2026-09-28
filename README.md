@@ -202,7 +202,10 @@ const borja = {
   <tr>
     <td width="100%" valign="top">
       <h3><a href="https://www.coursera.org/specializations/generative-ai-engineering-with-llms">Generative AI Engineering with LLMs</a></h3>
-      <p>Especialización de IBM en Coursera · <code>▰▰▰▰▰▰▱</code> <b>6 de 7</b> cursos completados</p>
+      <p>
+        Especialización de IBM en Coursera · <code>▰▰▰▰▰▰▰</code> <b>completada</b>, los 7 cursos · sep. 2026
+        <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/SPDAHRXHFUAV"><img src="https://img.shields.io/badge/credencial-verificada-1F5C46?style=flat-square&logo=coursera&logoColor=white" alt="Credencial de la especialización verificada en Coursera"/></a>
+      </p>
       <ul>
         <li><a href="https://coursera.org/verify/YSE53UOEJI0L">Generative AI and LLMs: Architecture and Data Preparation</a> · jun. 2026</li>
         <li><a href="https://coursera.org/verify/12IO3TJYX85M">Gen AI Foundational Models for NLP &amp; Language Understanding</a> · jun. 2026</li>
@@ -210,6 +213,7 @@ const borja = {
         <li><a href="https://coursera.org/verify/CT6E4I3BN42V">Generative AI Engineering and Fine-Tuning Transformers</a> · ago. 2026</li>
         <li><a href="https://coursera.org/verify/582KPL9CNU2K">Generative AI Advanced Fine-Tuning for LLMs</a> · sep. 2026</li>
         <li><a href="https://coursera.org/verify/5JQ1M71RZ24K">Fundamentals of AI Agents Using RAG and LangChain</a> · sep. 2026</li>
+        <li><a href="https://coursera.org/verify/TDSL516G82V5">Project: Generative AI Applications with RAG and LangChain</a> · sep. 2026</li>
       </ul>
     </td>
   </tr>
